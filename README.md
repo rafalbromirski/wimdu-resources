@@ -1,11 +1,11 @@
 Wimdu Resources
 =======
 
-Wimdu logos, icons, and press related assets - http://wimdu.com
+Wimdu logos, fonts, icons, and press related assets - http://wimdu.com
 
 ## Typography:
 
-Wimdu uses the `Source Sans Pro` typeface, which can be downloaded for free here:
+Wimdu is using the `Source Sans Pro` typeface, which can be downloaded for free here:
 http://www.google.com/fonts/specimen/Source+Sans+Pro
 
 (Source files are available here: https://github.com/adobe/source-sans-pro)
